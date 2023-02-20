@@ -14,6 +14,8 @@ let age = 18 //number
 let isLoggedIn = true  //boolean
 
 
+// primitive data types
+
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -21,6 +23,10 @@ let isLoggedIn = true  //boolean
 // null => standalone value
 // undefined =>
 // symbol 
+
+
+// non-premitive data types
+// object
 
  console.log(typeof undefined) // undefined 
  console.log(typeof null) // object
