@@ -58,6 +58,15 @@
 
 // console.log(str3);
 
+let totalCharacter = 250;
+let tweet = prompt("Compose your tweet");
+let tweetCount = tweet.length;
+
+
+let left = totalCharacter - tweetCount;
+alert("You have written " + tweetCount + " Character, you have " + left + " Character left")
+
+
 //compelex situation
 
 // console.log("1" + 2);
