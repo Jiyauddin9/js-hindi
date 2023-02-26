@@ -21,3 +21,6 @@ https://www.calculatorsoup.com/calculators/health/bmi-calculator.php
 
 let bmi = bmiCalculator(65, 1.8); 
 console.log(bmi);
+
+
+// ********************************BMI Calculator Advanced (IF/ELSE)*****************************
